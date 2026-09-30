@@ -73,6 +73,5 @@ LiPoバッテリ(402050) | 1
 > [!IMPORTANT]
 > プリント部品へのネジ彫りのため、少しずつ力を入れ様子を見なら締めてください。
 
-## ファームウェア
-作成中
-
+## ファームウェア - ZMK Firmware
+[zmk-config-uollp-template](https://github.com/skubmdi/zmk-config-uollp-template) をフォークして使用してください。
