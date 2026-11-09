@@ -10,10 +10,9 @@ uollp はウルトラロープロファイル x オーソリニアの自作キ�
 部品|必要数
 -|-
 基板 | 1
-M2ネジ2mm | 4
+M2ネジ4mm | 4
 プリントケース(トップ/ボトム/スイッチ) | 1
 SeeedStudioXIAO nrf52840 | 1
-スライドスイッチ, 1.25mmピッチ2極コネクタ | 1
 LiPoバッテリ(402050) | 1
 1N4148W, CPG1316S01D02 | 20, 24, 30
 
@@ -74,4 +73,4 @@ LiPoバッテリ(402050) | 1
 > プリント部品へのネジ彫りのため、少しずつ力を入れ様子を見なら締めてください。
 
 ## ファームウェア - ZMK Firmware
-[zmk-config-uollp-template](https://github.com/skubmdi/zmk-config-uollp-template) をフォークして使用してください。
+[skubmdi/zmk-config-uollp](https://github.com/skubmdi/zmk-config-uollp) をフォークして使用してください。
