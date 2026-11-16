@@ -71,11 +71,11 @@ SeeedStudioXIAO nrf52840, LiPoバッテリ(402050) | 1
 トップケースへスイッチカバーを取り付け、基板・バッテリ・ボトムケースを装着します。  
 バッテリはマスキングテープなどで基板へ固定してください。  
 ボトムケースの裏面四隅へねじ止めします。
-![](images/feb3a782-bb7d-4664-8302-1411f6bd1ec3.png)
-
 > [!IMPORTANT]
 > バッテリの極性に注意してください、下が「＋赤」、上が「－黒」です。  
 > プリント部品へのネジ彫りのため、少しずつ力を入れ様子を見なら締めてください。
+
+![](images/feb3a782-bb7d-4664-8302-1411f6bd1ec3.png)
 
 ## ファームウェア - ZMK Firmware
 [skubmdi/zmk-config-uollp](https://github.com/skubmdi/zmk-config-uollp) をフォークして使用してください。
